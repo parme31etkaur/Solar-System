@@ -1,0 +1,85 @@
+body{
+  background-image: url(https://www.microsoft.com/en-au/business/Images/business/space-startups/hero1-1259x472.jpg);
+  background-size: cover;
+}
+.circle{
+  margin-left:20px;
+  margin-top: 40px;
+}
+.btn {
+  position: relative;
+  left:75%;
+  margin-bottom: 30px;
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: brown;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 60px 50px 70px 50px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #822808;
+  background-image: -webkit-linear-gradient(top, #822808, #0a358c);
+  background-image: -moz-linear-gradient(top, #822808, #0a358c);
+  background-image: -ms-linear-gradient(top, #822808, #0a358c);
+  background-image: -o-linear-gradient(top, #822808, #0a358c);
+  background-image: linear-gradient(to bottom, #822808, #0a358c);
+  text-decoration: none;
+}
+h1{
+  color: white;
+  font-family: "Spline Sans Mono",monospace;
+  font-weight: 100;
+  font-size: 8em;
+  letter-spacing: 0.1em;
+  margin: 3% auto 2% 18%;
+}
+.line{
+width:40%;
+float: right;
+margin-right:42.5%;
+margin-top: 7%;
+display: inline-block;
+font-weight:10;
+color:#3F4E4F;
+border-style:solid none;
+}
+.magic{
+  width: 5%;
+  color:white;
+}
+.menu{
+position: absolute;
+right:2%;
+top:12%;
+padding:20px;
+}
+.m1{
+  padding-left: 20px;
+}
+a{
+color: white;
+text-decoration: underline black;
+text-underline-offset:2em;
+}
+a:hover{
+  text-decoration-color: white;
+}
+.para{
+  color: white;
+  font-family: "Roboto",sans-serif;
+  margin-left: 18%;
+  margin-bottom:5em;
+}
+.start{
+  color: white;
+  font-family: 'Abel', sans-serif;
+  margin-left: 18%;
+  letter-spacing: 0.1em;
+  font-size: 1.7em;
+  padding-top: 10%;
+}

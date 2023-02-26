@@ -1,0 +1,67 @@
+a{
+color: white;
+text-decoration: underline black;
+text-underline-offset:2em;
+}
+a:hover{
+  text-decoration-color: white;
+}
+body{
+  background-image: url(launch.png);
+}
+.circle{
+  margin-left:20px;
+  margin-top: 40px;
+}
+h1{
+  color: white;
+  font-family: serif;
+  font-weight: 100;
+  font-size: 4em;
+  margin: 2% auto 4% 10%;
+}
+h3{
+  color:#3F4E4F;
+  font-family: serif;
+  font-weight: 100;
+  font-size: 2em;
+  letter-spacing: 0.1em;
+  margin: 10% auto 1% 10%;
+}
+.line{
+width:40%;
+float: right;
+margin-right:42.5%;
+margin-top: 7%;
+display: inline-block;
+font-weight:10;
+color:#3F4E4F;
+border-style:solid none;
+}
+.menu{
+position: absolute;
+right:2%;
+top:12%;
+padding:20px;
+}
+.m1{
+  padding-left: 20px;
+}
+.para{
+  color: white;
+  font-family: "Roboto",sans-serif;
+  margin-left: 10%;
+  margin-bottom:5em;
+
+}
+.start{
+  color: white;
+  font-family: 'Abel', sans-serif;
+  margin-left: 10%;
+  letter-spacing: 0.1em;
+  font-size: 1.5em;
+  padding-top: 2%;
+}
+span{
+color:#3F4E4F;
+}
